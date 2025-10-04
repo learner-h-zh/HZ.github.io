@@ -1,4 +1,4 @@
-![Editing a Markdown file for a talk](/images/huzhao.jpg)
+
 
 ---
 permalink: /
