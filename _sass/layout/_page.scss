@@ -17,6 +17,7 @@
 }
 
 .page {
+   
   @include breakpoint($large) {
     @include span(9 of 12 last);
     @include prefix(1 of 12);
@@ -32,6 +33,10 @@
       @include full();
     }
   }
+}
+
+.body {
+  font-family: 'Roboto', sans-serif;
 }
 
 .page__title {
