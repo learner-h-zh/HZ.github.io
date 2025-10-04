@@ -12,15 +12,16 @@ I’m Hu Zhao, a fourth year undergraduate student from Liaoning Technical Unive
 My current research interests include: MLLM, AI agents, and Remote Sensing Detection.
 
 <br><br><br>
-<br><br><br>
 
 Experiences
 ======
 - 2025.09 - persent, iLAB Laboratory, Beijing Jiaotong University.
 - 2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.
 
+<br><br><br>
 
 News and Update
 ======
+- June 2024, Won the National Excellence Award in Algorithm Design at Lanqiao Cup!
 - October 2023, Joined the Neural Network Laboratory, under the guidance of Professor Xiangfu Meng.
 - August 2023, Successfully transferred to the Computer Science major, and began studying coding and algorithms.
