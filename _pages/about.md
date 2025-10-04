@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+======
 I’m a fourth year undergraduate student from Liaoning Technical University.
 
 A data-driven personal website
