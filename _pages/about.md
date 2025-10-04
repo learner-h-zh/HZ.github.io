@@ -18,8 +18,6 @@ Experiences
 - 2025.09 - persent, iLAB Laboratory, Beijing Jiaotong University.
 - 2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.
 
-<br><br><br>
-
 News and Update
 ======
 - June 2024, Won the National Excellence Award in Algorithm Design at Lanqiao Cup!
