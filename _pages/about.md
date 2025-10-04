@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m a fourth year undergraduate student from Liaoning Technical University. I am currently an incoming graduate student at the School of Computer Science, Beijing Jiaotong University, under the supervision of Professor Zheng Shuai. 
+I’m Hu Zhao, a fourth year undergraduate student from Liaoning Technical University. I am currently an incoming graduate student at the School of Computer Science, Beijing Jiaotong University, under the supervision of Professor Zheng Shuai. 
 
 My current research interests include: MLLM, AI agents, and Remote Sensing Detection.
 
-------
+
 Experience
 ======
 - 2025.09-persent, iLAB Laboratory, Beijing Jiaotong University.
 - 2023.09-2025.08, Neural Network Laboratory, Liaoning Technical University.
 
------- 
+
 News and Update
 ======
