@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a Markdown file for a talk](/images/huzhao.jpg)
+![Editing a Markdown file for a talk](https://github.com/learner-h-zh/HZ.github.io/blob/master/images/huzhao.jpg)
 
 About me
 ======
