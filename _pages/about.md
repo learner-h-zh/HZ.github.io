@@ -8,6 +8,7 @@ redirect_from:
 
 ![Editing a Markdown file for a talk](/images/huzhao.jpg)
 
+About me
 ======
 I’m a fourth year undergraduate student from Liaoning Technical University.
 
