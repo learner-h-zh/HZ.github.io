@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/huzhao.jpg" alt="Your Image Alt Text" width="300" />
+<img src="https://github.com/learner-h-zh/HZ.github.io/blob/master/images/huzhao.jpg" alt="Your Image Alt Text" width="300" />
 
 I’m a fourth year undergraduate student from Liaoning Technical University.
 
