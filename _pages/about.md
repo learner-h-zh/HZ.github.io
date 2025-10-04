@@ -12,7 +12,7 @@ I’m Hu Zhao, a fourth year undergraduate student from Liaoning Technical Unive
 My current research interests include: MLLM, AI agents, and Remote Sensing Detection.
 
 
-<h2 style="font-family: 'Georgia', serif; font-size: 24px; font-weight: bold; color: #2c3e50;">Experiences</h2>
+Experiences
 ======
 - 2025.09 - persent, iLAB Laboratory, Beijing Jiaotong University.
 - 2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.
