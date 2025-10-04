@@ -1,3 +1,5 @@
+<img src="https://github.com/learner-h-zh/HZ.github.io/blob/master/images/huzhao.jpg" alt="Your Image Alt Text" width="300" />
+
 ---
 permalink: /
 title: "About me"
