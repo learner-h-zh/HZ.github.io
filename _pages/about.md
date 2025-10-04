@@ -11,8 +11,12 @@ I’m a fourth year undergraduate student from Liaoning Technical University. I 
 
 My current research interests include: MLLM, AI agents, and Remote Sensing Detection.
 
+------
 Experience
 ======
+- 2025.09-persent, iLAB Laboratory, Beijing Jiaotong University.
+- 2023.09-2025.08, Neural Network Laboratory, Liaoning Technical University.
 
+------ 
 News and Update
 ======
