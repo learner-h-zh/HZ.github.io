@@ -19,8 +19,8 @@ My current research interests include: MLLM, AI agents, and Remote Sensing Detec
 
 
 <h1><img src="./images/目标.svg" alt="icon" style="width: 50px; height: 50px; margin-right: 10px;"> News and Update</h1>
-- <p>September 2025, I was admitted to the School of Computer Science at Beijing Jiaotong University! Hard work pays off!<img src="./images/眨眼.svg" alt="icon" style="width: 30px; height: 30px; margin-right: 10px;"></p>
-- <p>May 2025, my first paper was accepted by the Applied Science journal,This will be the beginning of my new journey!<img src="./images/rocket.svg" alt="icon" style="width: 30px; height: 30px; margin-right: 10px;"></p>
+- <p>September 2025, I was admitted to the School of Computer Science at Beijing Jiaotong University! Hard work pays off!<img src="./images/眨眼.svg" alt="icon" style="width: 30px; height: 30px; margin-right: 15px;"></p>
+- <p>May 2025, my first paper was accepted by the Applied Science journal,This will be the beginning of my new journey!<img src="./images/rocket.svg" alt="icon" style="width: 30px; height: 30px; margin-right: 15px;"></p>
 - June 2024, Won the National Excellence Award in Algorithm Design at Lanqiao Cup!
 - October 2023, Joined the Neural Network Laboratory, under the guidance of Professor Xiangfu Meng.
 - August 2023, Successfully transferred to the Computer Science major, and began studying coding and algorithms.
