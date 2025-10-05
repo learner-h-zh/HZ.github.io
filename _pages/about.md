@@ -14,8 +14,8 @@ My current research interests include: MLLM, AI agents, and Remote Sensing Detec
 
 <h1><img src="./images/svg_1.svg" alt="icon" style="width: 24px; height: 24px; margin-right: 10px;"> Experience</h1>
 ======
-- 2025.09 - present, iLAB Laboratory, Beijing Jiaotong University.</li>
-- 2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.</li>
+- 2025.09 - present, iLAB Laboratory, Beijing Jiaotong University.
+- 2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.
   
 
 
