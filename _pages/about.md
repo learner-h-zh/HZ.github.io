@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1><img src="./images/svg_2.svg" alt="icon" style="width: 40px; height: 40px; margin-right: 10px;"> About me</h1>
+<h1><img src="./images/svg_3.svg" alt="icon" style="width: 40px; height: 40px; margin-right: 10px;"> About me</h1>
 I’m Hu Zhao, a fourth year undergraduate student from Liaoning Technical University. I am currently an incoming graduate student at the School of Computer Science, Beijing Jiaotong University, under the supervision of Professor Zheng Shuai. 
 
 My current research interests include: MLLM, AI agents, and Remote Sensing Detection.
