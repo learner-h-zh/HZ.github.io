@@ -13,10 +13,9 @@ My current research interests include: MLLM, AI agents, and Remote Sensing Detec
 
 <br><br><br>
 
-<?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve"; width: 30px; height: 30px>
 <g id="_x31_0_x2C__target_x2C__goal_x2C__focus_x2C__aim_x2C__success">
 	<g>
 		<path id="XMLID_368_" style="fill:#FFB24D;" d="M35.999,396.001h-10c-5.523,0-10-4.478-10-10s4.477-10,10-10h10
