@@ -64,3 +64,18 @@ News and Update
 - June 2024, Won the National Excellence Award in Algorithm Design at Lanqiao Cup!
 - October 2023, Joined the Neural Network Laboratory, under the guidance of Professor Xiangfu Meng.
 - August 2023, Successfully transferred to the Computer Science major, and began studying coding and algorithms.
+
+<style>
+    /* CSS 样式直接写在这里 */
+    .experience-img {
+        width: 30px;  /* 设置宽度 */
+        height: 30px; /* 设置高度 */
+        vertical-align: middle;  /* 保证图片和文本对齐 */
+        margin-right: 10px; /* 控制图片与文字之间的距离 */
+    }
+
+    .experience-container {
+        display: flex;
+        align-items: center; /* 保证图片和文本垂直居中对齐 */
+    }
+</style>
