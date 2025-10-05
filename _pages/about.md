@@ -46,9 +46,13 @@ My current research interests include: MLLM, AI agents, and Remote Sensing Detec
 </svg> 
 
 <div class="experience-container">
-    <div class="experience-img">
-        <!-- SVG 图像部分已放置于此 -->
-    </div>
+    <svg class="experience-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+        <g>
+            <path style="fill:#FFB24D;" d="M35.999,396.001h-10c-5.523,0-10-4.478-10-10s4.477-10,10-10h10
+            c5.523,0,10,4.478,10,10S41.522,396.001,35.999,396.001z"/>
+        </g>
+    </svg>
     <p>
         <strong>Experience:</strong>
         <ul>
@@ -56,8 +60,7 @@ My current research interests include: MLLM, AI agents, and Remote Sensing Detec
             <li>2023.09 - 2025.08, Neural Network Laboratory, Liaoning Technical University.</li>
         </ul>
     </p>
-</div> Experiences
-======
+</div>
 
 
 News and Update
