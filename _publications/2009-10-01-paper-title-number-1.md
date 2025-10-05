@@ -11,9 +11,6 @@ paperurl: 'https://github.com/learner-h-zh/HZ.github.io/raw/master/files/RFE-FCO
 bibtexurl: 'https://github.com/learner-h-zh/HZ.github.io/raw/master/files/RFE-FCOS.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<img src="{{ 'https://github.com/learner-h-zh/HZ.github.io/blob/master/images/RFE-FCOS.svg' | relative_url }}"
-     alt="RFE-FCOS"
-     style="max-width:600px;height:auto;margin-right:10px;">
 
 This paper proposes RFE-FCOS, which focuses on improving object detection in remote sensing imagery by incorporating multi-angle rotation-invariant learning. The method significantly enhances detection performance, particularly for arbitrarily oriented objects, achieving robust results on the DIOR-R and HRSC2016 benchmarks.
 
