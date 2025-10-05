@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 <h1><img src="./images/svg_3.svg" alt="icon" style="width: 60px; height: 60px; margin-right: 10px;"> About me</h1>
-<p>&nbsp;&nbsp</p>Hi, I'm Hu Zhao, a fourth-year undergraduate student at Liaoning Technical University. I am excited to be joining the School of Computer Science at Beijing Jiaotong University as a graduate student, where I will be working under the supervision of Professor Zheng Shuai.
+<p>&nbsp;&nbsp;Hi, I'm Hu Zhao, a fourth-year undergraduate student at Liaoning Technical University. I am excited to be joining the School of Computer Science at Beijing Jiaotong University as a graduate student, where I will be working under the supervision of Professor Zheng Shuai.</p>
 
-<p>&nbsp;&nbsp</p>My research interests primarily focus on MLLM (Multilingual Language Models), AI agents, and Remote Sensing Detection. I am passionate about exploring the intersection of artificial intelligence and practical applications, and I look forward to contributing to the advancement of these fields.
+<p>&nbsp;&nbsp;My research interests primarily focus on MLLM (Multilingual Language Models), AI agents, and Remote Sensing Detection. I am passionate about exploring the intersection of artificial intelligence and practical applications, and I look forward to contributing to the advancement of these fields.</p>
 
 <br><br><br>
 
