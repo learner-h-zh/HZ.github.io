@@ -1,14 +1,7 @@
----
-permalink: /markdown/
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
-
-paper reading
+Paper reading
 ======
 
-English studying
+
+IELTS studying
 ======
 
