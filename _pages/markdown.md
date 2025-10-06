@@ -1,7 +1,7 @@
 ---
 permalink: /markdown/
+title: "Paper reading"
 author_profile: true
-title:"Paper reading"
 redirect_from: 
   - /md/
   - /markdown.html
