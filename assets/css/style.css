@@ -1,6 +1,6 @@
 /* 使用 Arial 字体 */
 .mllm, .vlp_vad, .gnn_rs {
-  font-family: 'Arial', sans-serif; /* 使用 Arial 字体 */
+  font-family: 'Didot', sans-serif; /* 使用 Arial 字体 */
   font-size: 30px; /* 字体大小 */
   font-weight: 600; /* 字体加粗 */
   background: linear-gradient(90deg, #ff7b00, #ff4da6, #0066ff, #ffcc00); /* 彩色渐变 */
