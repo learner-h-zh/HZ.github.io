@@ -13,7 +13,7 @@ redirect_from:
 
 * <span class="mllm">MLLM</span>
   
-  经典的多模态大模型及近两年顶会论文[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc)
+  <span style="font-family: 'Microsoft YaHei'; font-size: 24px; font-weight: bold;">经典的多模态大模型及近两年顶会论文</span>[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc)
   
 * <span class="vlp_vad">VLP-VAD</span>
   
