@@ -1,18 +1,16 @@
-/* style.css 文件内容 */
-
-/* 可爱的字体和颜色 */
+/* 使用 Arial 字体 */
 .mllm, .vlp_vad, .gnn_rs {
-  font-family: 'Poppins', sans-serif; /* 使用 Poppins 字体 */
-  font-size: 30px; /* 设置字体大小 */
+  font-family: 'Arial', sans-serif; /* 使用 Arial 字体 */
+  font-size: 30px; /* 字体大小 */
   font-weight: 600; /* 字体加粗 */
-  color: #FF69B4; /* 使用粉色 */
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* 文字阴影增加可爱感 */
-  margin-bottom: 10px; /* 设置底部间距 */
-  transition: all 0.3s ease; /* 添加过渡效果 */
+  background: linear-gradient(90deg, #ff7b00, #ff4da6, #0066ff, #ffcc00); /* 彩色渐变 */
+  -webkit-background-clip: text; /* 使背景颜色只应用于文本 */
+  color: transparent; /* 使字体颜色透明，只有背景渐变颜色显示 */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* 给文字添加阴影，增强立体感 */
+  margin-bottom: 10px; /* 底部间距 */
+  transition: all 0.3s ease; /* 添加平滑过渡效果 */
 }
 
 .mllm:hover, .vlp_vad:hover, .gnn_rs:hover {
-  color: #FF1493; /* 鼠标悬停时颜色变化 */
-  transform: scale(1.1); /* 鼠标悬停时放大字体 */
+  transform: scale(1.1); /* 鼠标悬停时文字放大 */
 }
-
