@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-* <span class="mllm">MLLM</span> 经典的多模态大模型及近两年顶会论文阅读笔记
+* <span class="mllm">MLLM</span> 
   
   经典的多模态大模型及近两年顶会论文[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/NldKw0nHYiXlzCkCDWzc5ETUnfc)
   
