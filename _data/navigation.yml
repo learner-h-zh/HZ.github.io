@@ -13,6 +13,9 @@ main:
 
  # - title: "Study"
 #  url: /talks/       
+
+  - title: "Study"
+    url: /markdown/
     
   # - title: "Portfolio"
   #  url: /portfolio/
@@ -26,5 +29,4 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Study"
-    url: /markdown/
+
