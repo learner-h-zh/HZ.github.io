@@ -11,8 +11,8 @@ main:
   - title: "Works"
     url: /publications/
 
-  - title: "Study"
-    url: /talks/       
+ # - title: "Study"
+#  url: /talks/       
     
   # - title: "Portfolio"
   #  url: /portfolio/
@@ -26,5 +26,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "Study"
     url: /markdown/
