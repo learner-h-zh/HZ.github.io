@@ -1,52 +1,15 @@
-/* 使用 Arial 字体 */
+/* 使用 Poppins 字体，字体更加圆润 */
 .mllm, .vlp_vad, .gnn_rs {
-  font-family: 'Arial', sans-serif; /* 使用 Arial 字体 */
+  font-family: 'Poppins', sans-serif; /* 使用 Poppins 字体 */
   font-size: 30px; /* 字体大小 */
-  font-weight: bold; /* 字体加粗 */
-  position: relative;
+  font-weight: 600; /* 字体加粗 */
   color: #000; /* 默认字体颜色 */
   display: inline-block;
   margin-bottom: 10px;
+  transition: all 0.3s ease; /* 添加平滑过渡效果 */
 }
 
-/* 彩笔滑过效果：为不同的标题设置不同的颜色 */
-.mllm::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #FF6347; /* 彩笔颜色：橙红色 */
-  clip-path: inset(0 100% 0 0);
-  transition: all 0.5s ease-in-out;
-}
-
-.vlp_vad::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #1E90FF; /* 彩笔颜色：亮蓝色 */
-  clip-path: inset(0 100% 0 0);
-  transition: all 0.5s ease-in-out;
-}
-
-.gnn_rs::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #32CD32; /* 彩笔颜色：绿色 */
-  clip-path: inset(0 100% 0 0);
-  transition: all 0.5s ease-in-out;
-}
-
-/* 鼠标悬停时，彩笔滑过效果 */
-.mllm:hover::before, .vlp_vad:hover::before, .gnn_rs:hover::before {
-  clip-path: inset(0 0 0 0); /* 鼠标悬停时让伪元素从左到右显示 */
+/* 鼠标悬停时文字轻微放大 */
+.mllm:hover, .vlp_vad:hover, .gnn_rs:hover {
+  transform: scale(1.1); /* 鼠标悬停时放大字体 */
 }
