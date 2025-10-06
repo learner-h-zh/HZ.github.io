@@ -1,13 +1,12 @@
 ---
 permalink: /markdown/
 author_profile: true
+title:"Paper reading"
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-Paper reading
-======
 
 * **MLLM**
   
