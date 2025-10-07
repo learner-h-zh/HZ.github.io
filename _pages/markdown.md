@@ -23,6 +23,10 @@ redirect_from:
   
   <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">GNN做推荐系统</span>[阅读笔记](https://vcnhl39yiabw.feishu.cn/wiki/X0wewHEyEiyhkSkBAOdc6xcGnVg)
 
+* <span class="gnn_rs">Federated Learning + MLLM</span>
+
+  <span style="font-family: 'Microsoft YaHei'; font-size: 20px; font-weight: bold;">To Be Continue</span>
+
 IELTS studying
 ======
 
