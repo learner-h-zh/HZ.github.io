@@ -16,7 +16,7 @@
 
 
 .wide-page {
-  max-width: 1500px; /* 或任何你想要的宽度 */
+  max-width: 2000px; /* 或任何你想要的宽度 */
   margin: 0 auto; /* 居中显示 */
   padding: 0 20px; /* 添加左右内边距 */
 }
