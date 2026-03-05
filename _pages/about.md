@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm **Hu Zhao**. I am currently a fourth-year undergraduate student at **Liaoning Technical University**. 
 
